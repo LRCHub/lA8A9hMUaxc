@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "La Di Danimal",
+  "base_artist": "TOPHAMHAT-KYO",
+  "createdAt": "2026-01-14T02:12:33.738027Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "La Di Danimal",
+      "artist": "TOPHAMHAT-KYO",
+      "has_synced": false,
+      "path": "select/pl_01_La_Di_Danimal_TOPHAMHAT-KYO.txt"
+    }
+  ]
+}
